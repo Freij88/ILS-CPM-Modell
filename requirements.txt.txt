@@ -1,0 +1,6 @@
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
+plotly==6.1.1
+matplotlib
+# … övriga du ser i freeze-utskriften
